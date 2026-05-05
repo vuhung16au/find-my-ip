@@ -2,6 +2,14 @@
 
 > A streamlined Next.js & TypeScript IP discovery tool managed with Bun. It features real-time IPv4/IPv6 detection, detailed geographic metadata visualization, and a built-in educational FAQ. Designed for developers and power users, it includes a robust Makefile workflow and is pre-configured for instant deployment to Vercel.
 
+# Live Demo 
+
+[IP-Insights](https://find-my-ip-indol.vercel.app/)
+
+# Screenshot 
+
+![IP insights](images/ip-insights.png)
+
 ---
 
 ## Features
