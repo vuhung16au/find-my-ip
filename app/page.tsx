@@ -1,5 +1,3 @@
-"use client";
-
 import IPDisplay from "@/components/IPDisplay";
 import GeoDetails from "@/components/GeoDetails";
 import FAQ from "@/components/FAQ";
@@ -39,25 +37,15 @@ export default function Home() {
         {/* Footer */}
         <footer className="text-center text-sm mt-12" style={{ color: "var(--color-stone)" }}>
           <p>
-            Powered by{" "}
+            Source code on{" "}
             <a
-              href="https://ipapi.co"
+              href="https://github.com/vuhung16au/find-my-ip"
               target="_blank"
               rel="noopener noreferrer"
               style={{ color: "var(--color-law-purple)" }}
               className="hover:underline"
             >
-              ipapi.co
-            </a>{" "}
-            &amp;{" "}
-            <a
-              href="https://api64.ipify.org"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ color: "var(--color-law-purple)" }}
-              className="hover:underline"
-            >
-              ipify
+              GitHub
             </a>
           </p>
         </footer>
